@@ -1,0 +1,35 @@
+// Operators in C++ 
+
+#include<iostream>
+
+using namespace std;
+
+int main()
+{
+	int a,b;
+	
+	cin>>a;
+	cin >>b;
+	
+	int sum=(a+b);	
+	// Adding two numbers
+	cout<<"a+b is ::" << (a+b) <<endl;
+	
+	// Subtract two numbers 
+	 
+	 cout <<"a-b is ::" << (a-b)<<endl;
+	 
+	 // Multiply
+	 
+	 cout<<"a*b is ::" << (a*b)<<endl;
+	 
+	 //Division
+	 
+	 cout<< "a/b is :: " << (a/b)<<endl;
+	 
+	 // Module
+	 
+	 cout<<"a%b ::"<<(a%b);
+	
+	return a;
+}
