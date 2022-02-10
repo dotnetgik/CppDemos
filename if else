@@ -1,0 +1,27 @@
+// We need to print the positive number 
+// Take the input from the user and decide if that number is positive or negative and display it
+
+#include<iostream>
+using namespace std;
+
+int main()
+{
+	int numbertocheck;
+	
+	cout<<"Please enter your number ";
+	
+	cin>>numbertocheck;
+	
+	if(numbertocheck>0)
+	{
+		cout<<"you entered a positive number " << numbertocheck<<endl;
+	}
+	else
+	{
+		cout<<"you entered a negative number " << numbertocheck<<endl;
+	}
+	
+	cout<<"this statement will always execute after if else statement";
+	
+	return 0;
+}
