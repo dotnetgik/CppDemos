@@ -14,3 +14,15 @@ Write a program to print number of days in a month
 #Problem statement 3
 
 Write a Program to find Maximum of two numbers
+
+#Problem statment 4 
+Write a program to input cost price and selling price of a product and check profit or loss.
+
+#Problem statemtn 5 
+
+Write  program to input electricity unit charge and calculate the total electricity bill according to the given condition:
+For first 75 units Rs. 1/unit
+For next 150 units Rs. 2/unit
+For next 250 units Rs. 3/unit
+For unit above 250 Rs. 4/unit
+
