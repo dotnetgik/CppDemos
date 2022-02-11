@@ -1,0 +1,8 @@
+Problem statement 1
+Write a program to take input of marks of subject  like Hindi, Marathi, Mathematics and English and History , Calculate the percentage and display the grade based on conditions below 
+
+If percentage >= 70% : Distinction
+if Percentage >=60 : First class
+if Percentage >=50 Second class
+if Percentage >=40 Pass
+
