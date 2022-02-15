@@ -1,0 +1,28 @@
+// Use ternary operator to check if the number is postive or negative instead of if else
+
+#include <iostream>
+#include <string>
+using namespace std;
+
+int main() 
+{
+int number;
+
+string result,result1;
+  
+cout<<"Enter the number :: ";
+
+cin>>number;
+// Simple Ternary Operator
+result1=number>0 ? "Postive" : "Negative";
+
+// Nested Ternary Operator
+                            
+result= (number == 0  ) ? "Zero" :(number>0) ?"Positive":"Negative Number!";
+
+
+
+cout <<result1 <<" "<< result << endl;
+
+  return 0;
+}
