@@ -1,0 +1,50 @@
+#Excercise 1
+Print multiplication table of 17, 37 and 115 using loop.
+ output should be like this 
+ 17*1=17
+ .
+ .
+ .
+ .
+ 17*10=170
+ 
+ 
+#Excercise 2
+Take 5 integers from keyboard using loop and print their average value on the screen.
+
+#Excercise 3 
+
+Factorial of any number n is represented by n! and is equal to 1*2*3*....*(n-1)*n. E.g.-
+4! = 1*2*3*4 = 24
+3! = 3*2*1 = 6
+2! = 2*1 = 2
+Also,
+1! = 1
+0! = 0
+Write a C++ program to calculate factorial of a number.
+
+#Excercise 4
+
+Write  program to find the sum of all integer between 100 and 750 which are divisible by 9.
+
+#Excercise 5
+
+Write a program to reverse a number 
+Input
+
+Input number: 12345
+Output
+
+Reverse of 12345 = 54321
+
+#Logic to find the reverse is as follows 
+
+Take number from user to find reverse. Store it in some variable.
+Declare  variable to store reverse of num, say reverse = 0.
+Extract last digit of the given number by performing modulo division and Store the last digit to some variable say 
+lastDigit = num % 10.
+Increase the place value of reverse by one. To increase place value multiply reverse variable by 10 i.e. reverse = reverse * 10.
+Add lastDigit to reverse i.e. reverse = reverse + lastDigit.
+Since last digit of num is processed hence, remove last digit of num. To remove last digit divide num by 10 i.e. num = num / 10.
+Repeat step 3 to 6 till num is not equal to (or greater than) zero.
+
