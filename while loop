@@ -1,0 +1,20 @@
+//Program to print numbers from 1 to 5 using while loop
+#include <iostream>
+
+using namespace std;
+
+int main() {
+	
+    int number = 1; // Initialization part 
+
+    // while loop from 1 to 5
+    while (number <= 5) 
+	{   
+	   // Condition 1<=5  1 2 2<=5 3<=5 4<=5 5<=5 6<=5
+        cout << number << endl;
+        number++; // Update expression
+    }
+    
+    cout<<"after the loop";
+    return 0;
+}
