@@ -1,0 +1,38 @@
+#include <iostream>
+ 
+using namespace std;
+class Room {
+   public:
+      static int objectCount; // delcaring the static data member 
+    public:
+	  int tempVariable;
+	  
+	  
+      // Constructor definition
+      Room() {
+      	tempVariable=0;
+      	
+      	cout<<"Object Count is " << objectCount<<endl;
+         cout <<"Constructor called." << endl;
+         // Increase every time object is created
+         objectCount++;
+         
+      }
+};
+// Initialize static member of class Room 
+int Room::objectCount = 0;
+//dataType of static Member  Class_Name :: ( Scope resoultion Operator ) Data_Memmber_Name = { Value } 
+
+int main(void)
+ {
+
+   Room Room1 ;   // Declare room1
+   Room Room2 ;  // Declare room2
+   Room Room3;
+   // Print total number of objects.
+   cout << "Total objects: " << Room::objectCount << endl;
+    cout << "Value of Temp Variable For Room1 " <<Room1.tempVariable<< endl;
+    cout << "Value of Temp Variable For Room2 " <<Room1.tempVariable<< endl;
+// TO Access Static Data Member Class_Name :: ( Scope Resoulution Operator ) Data_Member_Name 
+   return 0;
+}
