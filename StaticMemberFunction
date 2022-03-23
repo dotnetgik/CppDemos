@@ -1,0 +1,39 @@
+#include <iostream>
+ 
+using namespace std;
+
+class Room
+ {
+   public:
+      static int objectCount;
+      
+      public : 
+      int tempVariable;
+      // Constructor definition
+      Room()
+	   {
+         cout <<"Constructor called." << endl;
+         // Increase every time object is created
+         objectCount++;
+      }
+      
+      static int GetObjectCount()
+	  {
+	  	cout<<"Calling the Static function"<<endl;
+      	return objectCount;
+	  }
+};
+
+// Initialize static member of class Room 
+int Room::objectCount = 0;
+
+int main(void) {
+
+   Room Room1 ;   // Declare room1
+   Room Room2 ;  // Declare room2
+   
+   // Print total number of objects.
+   cout << "Total objects: " << Room::GetObjectCount() << endl;
+
+   return 0;
+}
