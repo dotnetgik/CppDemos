@@ -51,7 +51,7 @@ Write a destructor that will display message that given car has been destroyed
 Write a member function MaxDistanceCarCanTravel() which will return the distance car can travel can be calculated as liters/consumptions 
 ( Two data member defined in a class )
 
-
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
 
 
 
