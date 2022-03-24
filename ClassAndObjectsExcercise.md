@@ -24,7 +24,7 @@ a class named 'Average' having a function to calculate and print the average wit
 
 Write a C++ Program To Calculate Simple Interest using class
 
-( Formula to calculate the intrest  is Amount*Rate*Duration ) 
+( Formula to calculate the intrest  is Amount * Rate* Duration ) 
 
 # Problem statement 5 
 Write a C++ Program To Calculate Electricity Bill Of Person using Class
