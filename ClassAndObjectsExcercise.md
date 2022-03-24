@@ -53,7 +53,7 @@ Write a destructor that will display message that given car has been destroyed.
 Write a member function MaxDistanceCarCanTravel() which will return the distance car can travel can be calculated as liters/consumptions 
 
 ===============================================================================
-
+# 
 ![This is an image](https://github.com/dotnetgik/StaticAssets/blob/main/GithubHappyCoding.PNG)
 
 
