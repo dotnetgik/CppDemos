@@ -46,12 +46,15 @@ Write two Member functions getGPA() and getGrades() that will return the respect
 Create a Class Car that has two fields liters and conusumptions 
 1. Default constructor will set those values to 50 and .5 respectively 
 2. Parameterized constructor should set those values to the value passed to constructor 
-Both these constructor should display the message that car has been created 
-Write a destructor that will display message that given car has been destroyed 
+3. Both these constructor should display the message that car has been created 
+
+Write a destructor that will display message that given car has been destroyed.
+
 Write a member function MaxDistanceCarCanTravel() which will return the distance car can travel can be calculated as liters/consumptions 
+
 ( Two data member defined in a class )
 
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+![This is an image](https://github.com/dotnetgik/StaticAssets/blob/main/GithubHappyCoding.PNG)
 
 
 
