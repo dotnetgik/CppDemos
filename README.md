@@ -48,6 +48,7 @@
       - [Parameterized Constructor](https://github.com/dotnetgik/CppDemos/blob/main/ParameterizedConstructor.cpp)
       - [Copy Constructor](https://github.com/dotnetgik/CppDemos/blob/main/CopyConstructor.cpp)
       - [Destructor](https://github.com/dotnetgik/CppDemos/blob/main/DestructorWithWall.cpp)
+      - [PPT](https://github.com/dotnetgik/StaticAssets/blob/main/Class%20Objects%20And%20Constructors.pptx)
  8. Access Modifiers
       - [Public](https://github.com/dotnetgik/CppDemos/blob/main/PublicAccessSpecifier.cpp)
       - [Private]()
