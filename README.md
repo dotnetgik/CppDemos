@@ -76,3 +76,6 @@
            - [Basics](https://github.com/dotnetgik/CppDemos/blob/main/OperatorOverloadingBasics.cpp)
            - [operator Overloading For Complex Numbers](https://github.com/dotnetgik/CppDemos/blob/main/OverloadinComplexNumbers.cpp)
       - [PPT](https://github.com/dotnetgik/StaticAssets/blob/main/Overloading.pptx)
+  15 Inheritance
+      - [Simple Inheritance](https://github.com/dotnetgik/CppDemos/blob/main/SimpleInheritance.cpp)
+      - [Ptotected Data Member](https://github.com/dotnetgik/CppDemos/blob/main/ProtectedDataMember.cpp)
