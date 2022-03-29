@@ -64,7 +64,7 @@
        - [Inline Function](https://github.com/dotnetgik/CppDemos/blob/main/InlineFunction.cpp)
        - [PPT](https://github.com/dotnetgik/StaticAssets/blob/main/InlineFunctions.pptx)
         
- 12. [Friend Function]
+ 12. Friend Function
        - [Friend Functions](https://github.com/dotnetgik/CppDemos/blob/main/FriendFunction)
        - [PPT](https://github.com/dotnetgik/StaticAssets/blob/main/Friend%20Functions.pptx)
  14. Polymorphism
