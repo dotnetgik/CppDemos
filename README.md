@@ -60,7 +60,7 @@
       - [Static Member Function](https://github.com/dotnetgik/CppDemos/blob/main/StaticMemberFunction)
       - [PPT](https://github.com/dotnetgik/StaticAssets/blob/main/StaticDataMember.pptx)
       
- 10. [Inline Functions]
+ 10. Inline Functions
        - [Inline Function](https://github.com/dotnetgik/CppDemos/blob/main/InlineFunction.cpp)
        - [PPT](https://github.com/dotnetgik/StaticAssets/blob/main/InlineFunctions.pptx)
         
