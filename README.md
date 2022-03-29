@@ -67,7 +67,7 @@
  12. Friend Function
        - [Friend Functions](https://github.com/dotnetgik/CppDemos/blob/main/FriendFunction)
        - [PPT](https://github.com/dotnetgik/StaticAssets/blob/main/Friend%20Functions.pptx)
- 14. Polymorphism
+ 13. Polymorphism
       - [Basics](https://github.com/dotnetgik/CppDemos/blob/main/PolymorphisamBasics.cpp)
       - [Function Overloading]()
            - [Overload with different Number of parameter](https://github.com/dotnetgik/CppDemos/blob/main/OverloadWithDifferentNumbers)
@@ -76,6 +76,6 @@
            - [Basics](https://github.com/dotnetgik/CppDemos/blob/main/OperatorOverloadingBasics.cpp)
            - [operator Overloading For Complex Numbers](https://github.com/dotnetgik/CppDemos/blob/main/OverloadinComplexNumbers.cpp)
       - [PPT](https://github.com/dotnetgik/StaticAssets/blob/main/Overloading.pptx)
-  15 Inheritance
+ 14. Inheritance
       - [Simple Inheritance](https://github.com/dotnetgik/CppDemos/blob/main/SimpleInheritance.cpp)
       - [Ptotected Data Member](https://github.com/dotnetgik/CppDemos/blob/main/ProtectedDataMember.cpp)
