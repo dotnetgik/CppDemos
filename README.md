@@ -1,7 +1,5 @@
-# CppDemos
 
 # Programming Basics using C++
-
 
 1. Getting Started
    - [Basic Input Output](https://github.com/dotnetgik/CppDemos/blob/main/BasicInputOutput)
