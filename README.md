@@ -79,3 +79,8 @@
  14. Inheritance
       - [Simple Inheritance](https://github.com/dotnetgik/CppDemos/blob/main/SimpleInheritance.cpp)
       - [Ptotected Data Member](https://github.com/dotnetgik/CppDemos/blob/main/ProtectedDataMember.cpp)
+      - Accessibiliyt Mode In Inheritance
+         -  [Public](https://github.com/dotnetgik/CppDemos/blob/main/PublicModeOfInheritance.cpp)
+         -  [Protected](https://github.com/dotnetgik/CppDemos/blob/main/ProtectedModeofInheritance.cpp)
+         -  [Private](https://github.com/dotnetgik/CppDemos/blob/main/PrivateAccessMode.cpp)
+         -  [Visibility Mode Table](https://github.com/dotnetgik/CppDemos/blob/main/AccessMode.md)
