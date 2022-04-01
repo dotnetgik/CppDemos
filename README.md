@@ -83,4 +83,4 @@
          -  [Public](https://github.com/dotnetgik/CppDemos/blob/main/PublicModeOfInheritance.cpp)
          -  [Protected](https://github.com/dotnetgik/CppDemos/blob/main/ProtectedModeofInheritance.cpp)
          -  [Private](https://github.com/dotnetgik/CppDemos/blob/main/PrivateAccessMode.cpp)
-         -  [Visibility Mode Table](https://github.com/dotnetgik/CppDemos/blob/main/AccessMode.md)
+         -  [Visibility Mode Table](https://github.com/dotnetgik/CppDemos/blob/main/Documentation/AccessMode.md)
