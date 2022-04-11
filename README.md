@@ -84,3 +84,15 @@
          -  [Protected](https://github.com/dotnetgik/CppDemos/blob/main/ProtectedModeofInheritance.cpp)
          -  [Private](https://github.com/dotnetgik/CppDemos/blob/main/PrivateAccessMode.cpp)
          -  [Visibility Mode Table](https://github.com/dotnetgik/CppDemos/blob/main/Documentation/AccessMode.md)
+      - Types of Inheritance
+         - [Single](https://github.com/dotnetgik/CppDemos/blob/main/SingleLevelInheritance.cpp)
+         - [MultiLevel](https://github.com/dotnetgik/CppDemos/blob/main/MultilevelInheritance.cpp)
+         - [Multiple](https://github.com/dotnetgik/CppDemos/blob/main/MultipleInheritance.cpp)
+         - [Hierarchical](https://github.com/dotnetgik/CppDemos/blob/main/HybridInheritance.cpp)
+         - [Hybrid](https://github.com/dotnetgik/CppDemos/blob/main/HybridInheritance.cpp)
+
+      - Virtual Functions 
+         - [Demo](https://github.com/dotnetgik/CppDemos/blob/main/VirtualFunction.cpp)
+      - Function Overriding
+         - [Demo](https://github.com/dotnetgik/CppDemos/blob/main/FunctionOverride.cpp)
+      - [PPT](https://github.com/dotnetgik/StaticAssets/blob/main/Inheritance.pptx)
