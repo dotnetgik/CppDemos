@@ -101,4 +101,4 @@
       - [Try-Catch-Throw](https://github.com/dotnetgik/CppDemos/blob/09cf8e23eadd46260f115cc0ae4d56e0f349440e/trycatchthrow.cpp)
       - [Aby Type Of Exception](https://github.com/dotnetgik/CppDemos/blob/09cf8e23eadd46260f115cc0ae4d56e0f349440e/AnyTypeOfException.cpp)
       - [Multiple Catch Blocks](https://github.com/dotnetgik/CppDemos/blob/09cf8e23eadd46260f115cc0ae4d56e0f349440e/MultipleCatchBloxk.cpp)
-      
+      - [PPT](https://github.com/dotnetgik/StaticAssets/blob/main/ExceptionHandling.pptx)
